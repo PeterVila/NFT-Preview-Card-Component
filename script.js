@@ -1,0 +1,1 @@
+const activeImg = document.querySelector('.main-img')
