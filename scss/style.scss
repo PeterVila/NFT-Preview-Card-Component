@@ -32,7 +32,7 @@ $white: #fff;
     }
     .main-img:hover:before {
         content: '';
-        background: hsla(178, 100%, 50%, 0.37) url('/images/icon-view.svg') no-repeat center;
+        background: hsla(178, 100%, 50%, 0.37) url('images/icon-view.svg') no-repeat center;
         width: 325px;
         height: 325px;
         position: absolute;
